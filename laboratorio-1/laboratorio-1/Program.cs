@@ -6,7 +6,7 @@ namespace laboratorio1
     {
         public static void Main(string[] args)
         {
-            persona;
+            persona m= new persona();
 
             Console.ReadKey();
         }
