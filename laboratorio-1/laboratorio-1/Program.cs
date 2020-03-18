@@ -6,7 +6,9 @@ namespace laboratorio1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            persona;
+
+            Console.ReadKey();
         }
     }
 }

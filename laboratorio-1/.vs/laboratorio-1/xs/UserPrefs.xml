@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{8D66A802-152B-4E9C-A138-9BA707AD2A3C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="laboratorio-1/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="laboratorio-1/persona.cs">
     <Files>
       <File FileName="laboratorio-1/Program.cs" Line="13" Column="1" />
       <File FileName="laboratorio-1/.gitignore" Line="359" Column="1" />
+      <File FileName="laboratorio-1/persona.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="laboratorio-1" expanded="True">
             <Node name="laboratorio-1" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="persona.cs" selected="True" />
             </Node>
           </Node>
         </State>
