@@ -6,7 +6,7 @@ namespace laboratorio1
     {
         public persona()
         {
-            Console.WriteLine("creando objeto");
+            Console.WriteLine("bob kunga");
         }
 
         public void lanzar()
